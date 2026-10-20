@@ -2,7 +2,7 @@
 
 ## Student Details
 - **Full Name:** Oluwajomiloju Adebisi-Olusola
-- **CCID:** ` adebisio
+- **CCID:** adebisio
 
 ## References and Resources
 N/A
